@@ -1,0 +1,1 @@
+Write a program to remove the duplicate elements from a sorted linked list. 

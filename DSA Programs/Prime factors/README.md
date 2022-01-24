@@ -1,0 +1,1 @@
+A positive integer is entered through the keyboard;write a recursive function to obtain theprime factors of that integer.Also,analyse the time and space complexity of your algorithm.
